@@ -1,0 +1,6 @@
+M3011, John Smith, 1831203540897, Bucuresti, cardiolog, 150
+M3012, Loredana Patrascu, 2890706540849, Bucuresti, generalist, 100
+M3013, Doru Ion, 1901103540795, Bucuresti, oftalmolog, 50
+M3014, Victor Mitru, 1921203670899, Bucuresti, pediatru, 30
+M3015, Daniel Tonu, 1871203540899, Bucuresti, generalist, 0
+M3016, Petrache Vasila, 2860304560899, Alexandria, generalist, 100
